@@ -9,6 +9,7 @@ Welcome to the Python Basics for Beginners repository! This repository is design
 - [Arrays (Lists)](#arrays-lists)
 - [Sets](#sets)
 - [Dictionaries](#dictionaries)
+- [Tuples](#Tuples)
 - [Basic Searching Algorithms](#basic-searching-algorithms)
 - [Contributing](#contributing)
 
@@ -36,6 +37,9 @@ Sets are used to store multiple items in a single variable. Sets are unordered a
 ## Dictionaries
 
 Dictionaries are used to store data values in key-value pairs. A dictionary is a collection that is unordered, changeable, and indexed. You can create dictionaries, access and modify their items, and add or remove key-value pairs.
+
+## Tuples
+Tuples are used to store multiple items in a single variable. A tuple is an ordered, immutable collection that allows you to group related data together. You can create tuples, access their elements, and perform various operations on them, but you cannot modify them after they are created.
 
 ## Basic Searching Algorithms
 
