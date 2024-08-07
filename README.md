@@ -46,6 +46,7 @@ Tuples are used to store multiple items in a single variable. A tuple is an orde
 ### Linear Search
 
 Linear search is a simple algorithm that checks each element in the list until the target element is found or the list ends. It is one of the basic algorithms you will learn in this repository.
+## Binary Search
 
 ## Contributing
 
