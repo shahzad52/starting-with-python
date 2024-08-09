@@ -11,6 +11,8 @@ Welcome to the Python Basics for Beginners repository! This repository is design
 - [Dictionaries](#dictionaries)
 - [Tuples](#Tuples)
 - [Basic Searching Algorithms](#basic-searching-algorithms)
+- [Linear Search](#Linear-Search)
+- [Binary Search](#Binary-Search)
 - [Contributing](#contributing)
 
 
@@ -43,10 +45,11 @@ Tuples are used to store multiple items in a single variable. A tuple is an orde
 
 ## Basic Searching Algorithms
 
-### Linear Search
+## Linear Search
 
 Linear search is a simple algorithm that checks each element in the list until the target element is found or the list ends. It is one of the basic algorithms you will learn in this repository.
 ## Binary Search
+Binary search is an efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing the search interval in half.
 
 ## Contributing
 
