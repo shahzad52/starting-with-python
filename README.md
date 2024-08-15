@@ -13,7 +13,7 @@ Welcome to the Python Basics for Beginners repository! This repository is design
 - [Basic Searching Algorithms](#basic-searching-algorithms)
 - [Linear Search](#Linear-Search)
 - [Binary Search](#Binary-Search)
-- [Contributing](#contributing)
+
 
 
 ## Introduction
@@ -51,7 +51,4 @@ Linear search is a simple algorithm that checks each element in the list until t
 ## Binary Search
 Binary search is an efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing the search interval in half.
 
-## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
- ---
