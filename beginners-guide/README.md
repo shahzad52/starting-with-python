@@ -6,9 +6,6 @@ Welcome to the Python Beginners' Guide! This repository is designed to help thos
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Repository Structure](#repository-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -17,5 +14,7 @@ Python is a versatile and widely-used programming language that's great for begi
 ## Getting Started
 
 To get started with this guide:
-
+## if-else
+## while loop
+## for loop
 
