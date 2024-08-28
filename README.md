@@ -51,4 +51,5 @@ Linear search is a simple algorithm that checks each element in the list until t
 ## Binary Search
 Binary search is an efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing the search interval in half.
 
+we are going to start classes
 
