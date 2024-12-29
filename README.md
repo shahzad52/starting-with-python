@@ -53,7 +53,11 @@ Binary search is an efficient algorithm for finding an item from a sorted list o
 
 ## classes
 we are going to implement four pillars of oop
-1. abstraction
-2. inheritance
-3. polymorphism
-4. encapsulation 
+### 1. abstraction
+Abstraction is about hiding complex implementation details and showing only the necessary features of an object.
+### 2. inheritance
+Inheritance allows a class (child) to inherit attributes and methods from another class (parent).
+### 3. polymorphism
+Polymorphism means the ability to take multiple forms. It allows the same interface to be used for different data types.
+### 4. encapsulation
+Encapsulation is about bundling data (attributes) and methods that operate on the data within one class and restricting direct access to some of the object's components
